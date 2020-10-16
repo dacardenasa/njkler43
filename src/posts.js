@@ -1,4 +1,4 @@
-var posts = [
+const posts = [
   {
     url: "http://blog.makeitreal.camp/desarrollo-agil-con-scrum/",
     title: "Desarrollo Ágil con Scrum",
